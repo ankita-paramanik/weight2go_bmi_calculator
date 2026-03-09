@@ -21,9 +21,13 @@ Weigh2Go is a Python GUI application built using wxPython that calculates Body M
 ## How to Run
 
 1. Install required libraries:-
-pip install wxPython matplotlib
+   pip install wxPython matplotlib
 
 2. Run the program
-python prog.py
+   python prog.py
 
 ## Screenshots
+   1. Input Interface 
+   <img width="800" height="1292" alt="Input Interface" src="https://github.com/user-attachments/assets/f9989900-db96-44e5-b4af-199b5343f1fa" /> 
+   2. Graph and Tips
+      
