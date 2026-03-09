@@ -1,5 +1,3 @@
-# bmi_calculator_wxpython
-GUI BMI Calculator built using Python and wxPython
 # Weigh2Go – BMI Calculator
 
 Weigh2Go is a Python GUI application built using wxPython that calculates Body Mass Index (BMI) and visualizes the result on a graph with basic health tips.
