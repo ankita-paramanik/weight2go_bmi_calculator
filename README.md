@@ -22,7 +22,7 @@ Weigh2Go is a Python GUI application built using wxPython that calculates Body M
    pip install wxPython matplotlib
 
 2. Run the program
-   python prog.py
+   python weight2go_bmi.py
 
 ## Screenshots
    1. Input Interface 
